@@ -1,0 +1,10 @@
+  # ツールの改良PRは作った人が承認する
+  tools/gas/            @afrojapan
+  tools/shortcuts/      @afrojapan
+  tools/claude-scripts/ @afrojapan
+  tools/analysis/       @afrojapan
+  tools/writing/        @afrojapan
+  tools/automation/     @afrojapan
+  tools/media/          @afrojapan
+  tools/prompts/        @afrojapan
+  tools/others/         @afrojapan
