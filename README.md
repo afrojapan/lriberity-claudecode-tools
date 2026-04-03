@@ -7,6 +7,7 @@
 | ツール名 | カテゴリ | 説明 |
 |---|---|---|
 | [TTPリサーチャー（GAS版）](analysis/ttp-researcher/) | 分析・リサーチ | バズ動画URLからYouTube関連チャンネルを自動抽出 |
+| [agent-device](automation/agent-device/) | 自動化 | AIエージェントがモバイル・デスクトップアプリのUIを操作・テスト |
 
 ## Notion DB
 
